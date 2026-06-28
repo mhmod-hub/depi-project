@@ -36,8 +36,13 @@ ONNX · Streamlit · FastAPI · HuggingFace Spaces · Kaggle
 
 ## Team
 Mahmoud Refaat
+
 Mazen Mohamed 
+
 Abdulrahman Jamal
+
 Mazen Hassan
+
 Hossam Mostafa
+
 DEPI — Digital Egypt Pioneers Initiative
